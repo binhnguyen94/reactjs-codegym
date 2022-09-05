@@ -10,4 +10,4 @@ import SignForm from './component/signForm';
 const container = document.getElementById('root');
 const root = createRoot(container);
 // root.render(<ProfileCard />)
-root.render(<SignForm />)
+root.render(<App />)
